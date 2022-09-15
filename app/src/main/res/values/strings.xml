@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CQLsys</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="registerss">Register</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string-array name="country">
+        <item>Select Country</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Indonesia</item>
+        <item>China</item>
+        <item>Brazil</item>
+        <item>Pakistan</item>
+        <item>Bhutaan</item>
+
+    </string-array>
+
+</resources>
